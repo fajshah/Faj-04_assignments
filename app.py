@@ -1,3 +1,5 @@
+#2-list/03_erase_canvas.md
+
 from tkinter import Canvas, Tk
 
 CANVAS_WIDTH = 400
